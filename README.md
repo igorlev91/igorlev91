@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at //Todo
 
-- 💬 Ask me about **Python, C++, Golang**
+- 💬 Ask me about **C++, Golang, Unreal Engine**
 
 - 📫 How to reach me **igorlevdansky91@gmail.com**
 
