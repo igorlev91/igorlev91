@@ -6,6 +6,7 @@
 - 👨‍💻 All of my projects are available at //Todo
 
 - 💬 Ask me about **C++, Golang, Unreal Engine**
+- 💬 Solid experience with implementing high-performance multiplayer backend with  **AWS GameLift, Playfab, EOS (Epic Online Services), Edgegap** for dedicated server hosting, matchmaking and lobby systems.
 
 - 📫 How to reach me **igorlevdansky91@gmail.com**
 
