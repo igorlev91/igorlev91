@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor Levdansky</h1>
-<h3 align="center">"I am software engineer focused on game & soft tech.Enthusiastic and motivated with a strong foundation in Game Engine, Python, C++, and software development, eager to contribute to innovative projects and learn from experienced teams."</h3>
+<h3 align="center">"I am software engineer focused on game & soft tech.Enthusiastic and motivated with a strong foundation in Game Engine, C++, and software development, eager to contribute to innovative projects and learn from experienced teams."</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-upa&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-upa" /> </p> -->
 
